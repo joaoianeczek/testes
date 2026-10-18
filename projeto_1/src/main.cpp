@@ -380,3 +380,5 @@ void limpar_fila(Fila *fila) {
         dequeue(fila);
     }
 }
+
+// falta adicionar a transmissão dos dados
